@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Chapel Service",
+    "date": "2026-04-07",
+    "description": "All students attend chapel at 10:00 AM.",
+    "group": "school"
+  },
+  {
+    "title": "3rd Grade Math Homework",
+    "date": "2026-04-07",
+    "description": "Complete worksheet #5.",
+    "group": "3rd-grade"
+  },
+  {
+    "title": "Basketball Practice",
+    "date": "2026-04-06",
+    "description": "Practice at 5:30 PM.",
+    "group": "athletics"
+  }
+]
